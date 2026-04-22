@@ -67,5 +67,3 @@ El sitio incluye páginas individuales para cada integrante:
 - Chart.js para gráficos interactivos
 
 ---
-
-## 📁 Estructura del proyecto
